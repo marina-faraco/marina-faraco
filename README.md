@@ -1,32 +1,32 @@
 # Olá, eu sou a Marina! 
 
 
-💼 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **back-end** e curiosidade crescente por **cibersegurança**. Estou em constante evolução, buscando entender não só o "como", mas o "porquê" por trás do código.
+💼 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em confiabilidade de sistemas, automação e segurança da informação. Gosto de entender como sistemas se comportam na prática, identificar falhas, melhorar processos e tornar ambientes mais previsíveis e confiáveis.
 
-Meu ponto mais forte é a disciplina. Sou constante, organizada e gosto de trabalhar quebrando problemas em partes, testando minhas soluções e versionando tudo com Git. Acredito de verdade que consigo dominar qualquer tecnologia que o trabalho exigir.
+Tenho um perfil analítico e organizado. Costumo trabalhar quebrando problemas em partes menores, validando hipóteses, documentando decisões e versionando tudo com Git. Me interesso tanto pelo código quanto pelo impacto dele em ambientes reais de produção.
 
-Atualmente, estou construindo projetos em Python, fortalecendo meus estudos em SQL e buscando minha primeira oportunidade como estagiária em desenvolvimento — com preferência por back-end, mas aberta a full-stack conforme cresço na área.
+Atualmente desenvolvo projetos em Python, estudo SQL e fundamentos de sistemas, e busco minha primeira oportunidade como estagiária em tecnologia, especialmente em contextos que envolvam operação, monitoramento, back-end ou confiabilidade, sempre com foco em aprendizado contínuo.
 
 ---
 
-🌐 **Inglês**: Intermediário – compreendo bem, estou desenvolvendo fluência na conversação.
+🌐 **Inglês**: Intermediário – boa compreensão técnica e em desenvolvimento na conversação.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 - `Python`  
 - `Git` & `GitHub`  
-- 👩🏻‍💻 Estudando: `SQL`, `APIs`, fundamentos de back-end
+- 👩🏻‍💻 Estudando: `SQL`, automação, fundamentos de sistemas, monitoramento e back-end
 
 ---
 
 ## 🎯 Um pouco sobre mim
 
-Além da tecnologia, gosto de me desafiar e manter o equilíbrio com atividades que me motivam:
+Gosto de manter disciplina e constância, tanto nos estudos quanto fora deles. Acredito que evolução real vem de rotina bem feita, curiosidade ativa e vontade de melhorar um pouco todo dia.
 
-- 🥊 Praticante de Muay Thai
-- 🎬 Apaixonada por séries e filmes
-- 🎓 Viciada em aprender coisas novas
+- 🥊 Pratico Muay Thai
+- 🎬 Curto séries e filmes
+- 🎓 Aprender coisas novas faz parte da minha rotina
 
 ---
 
