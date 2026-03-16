@@ -1,31 +1,54 @@
 # Olá, eu sou a Marina! 
 
 
-💼 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em confiabilidade de sistemas, automação e segurança da informação. Gosto de entender como sistemas se comportam na prática, identificar falhas, melhorar processos e tornar ambientes mais previsíveis e confiáveis.
+💼 Estudante de Análise e Desenvolvimento de Sistemas interessada em entender como sistemas funcionam na prática e como a tecnologia pode ser usada para resolver problemas de forma estruturada.
 
-Tenho um perfil analítico e organizado. Costumo trabalhar quebrando problemas em partes menores, validando hipóteses, documentando decisões e versionando tudo com Git. Me interesso tanto pelo código quanto pelo impacto dele em ambientes reais de produção.
+Gosto de desenvolver projetos que envolvem integração entre sistemas, consumo de APIs e manipulação de dados. Tenho interesse em diferentes áreas da tecnologia — especialmente desenvolvimento de software, automação e fundamentos de sistemas.
 
-Atualmente desenvolvo projetos em Python, estudo SQL e fundamentos de sistemas, e busco minha primeira oportunidade como estagiária em tecnologia, especialmente em contextos que envolvam operação, monitoramento, back-end ou confiabilidade, sempre com foco em aprendizado contínuo.
+Costumo trabalhar de forma analítica: quebrando problemas em partes menores, testando hipóteses, organizando código e documentando decisões. Valorizo código claro, aprendizado contínuo e evolução consistente através de projetos práticos.
+
+Atualmente desenvolvo projetos utilizando Python e JavaScript, estudo SQL e fundamentos de desenvolvimento de software, enquanto construo minha base técnica para minha primeira oportunidade como estagiária em tecnologia.
 
 ---
 
-🌐 **Inglês**: Intermediário – boa compreensão técnica e em desenvolvimento na conversação.
+🌐 **Inglês**: Intermediário.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- `Python`  
-- `Git` & `GitHub`  
-- 👩🏻‍💻 Estudando: `SQL`, automação, fundamentos de sistemas, monitoramento e back-end
+**Linguagens**
+- `Python`
+- `JavaScript`
+- `SQL (em estudo)`
+
+**Tecnologias Web**
+- `HTML`
+- `CSS`
+- `APIs REST`
+- `Manipulação de JSON`
+
+**Ferramentas**
+- `Git`
+- `GitHub`
+
+---
+
+## 👩🏻‍💻 O que estou estudando atualmente: 
+- Integração com APIs
+- Estruturação de código e boas práticas
+- Lógica e fundamentos de programação
+- Desenvolvimento web
+- Manipulação e organização de dados
 
 ---
 
 ## 🎯 Um pouco sobre mim
 
-Gosto de manter disciplina e constância, tanto nos estudos quanto fora deles. Acredito que evolução real vem de rotina bem feita, curiosidade ativa e vontade de melhorar um pouco todo dia.
+Acredito que evolução técnica vem da combinação de curiosidade, prática constante e disciplina. Gosto de aprender construindo projetos e explorando como diferentes partes de um sistema se conectam.
 
 - 🥊 Pratico Muay Thai
-- 🎬 Curto séries e filmes
+- 📚 Gosto de ler e aprender sobre diferentes áreas
+- 🎨 Tenho interesse por arte e cultura e gosto de observar como criatividade e estética influenciam a forma como nos relacionamos com tecnologia
 - 🎓 Aprender coisas novas faz parte da minha rotina
 
 ---
