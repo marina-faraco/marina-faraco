@@ -1,44 +1,60 @@
 # Olá, eu sou a Marina! 
 
-
-💼 Estudante de Análise e Desenvolvimento de Sistemas interessada em entender como sistemas funcionam na prática e como a tecnologia pode ser usada para resolver problemas de forma estruturada.
-
-Gosto de desenvolver projetos que envolvem integração entre sistemas, consumo de APIs e manipulação de dados. Tenho interesse em diferentes áreas da tecnologia — especialmente desenvolvimento de software, automação e fundamentos de sistemas.
-
-Costumo trabalhar de forma analítica: quebrando problemas em partes menores, testando hipóteses, organizando código e documentando decisões. Valorizo código claro, aprendizado contínuo e evolução consistente através de projetos práticos.
-
-Atualmente desenvolvo projetos utilizando Python e JavaScript, estudo SQL e fundamentos de desenvolvimento de software, enquanto construo minha base técnica para minha primeira oportunidade como estagiária em tecnologia.
+Desenvolvo aplicações web do zero — do banco de dados à interface.
+Tenho interesse em desenvolvimento de software e segurança da informação.
 
 ---
 
-🌐 **Inglês**: Intermediário.
+## 🚀 Projetos
+
+### [Koda Cafe](https://github.com/marina-faraco/koda-cafe)
+Site multi-página de cafeteria fictícia com fluxo de pedido completo.
+Carrinho persistido via `localStorage`, geolocalização real via API Nominatim, cálculo de totais e opções de pagamento.
+`HTML` `CSS` `JavaScript` `REST API`
+
+### [To-do List](https://github.com/marina-faraco/TO-DO)
+Aplicação full stack com Flask e SQLite. Backend modularizado em rotas e operações SQL separadas, CRUD completo e interface responsiva com Jinja2.
+`Python` `Flask` `SQLite` `Jinja2` `HTML` `CSS`
+
+### [Weather App](https://github.com/marina-faraco)
+Consome API de clima em tempo real e atualiza o DOM sem reload de página.
+`HTML` `CSS` `JavaScript` `REST API`
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-**Linguagens**
-- `Python`
-- `JavaScript`
-- `SQL (em estudo)`
+## 🛠️ Stack
 
-**Tecnologias Web**
-- `HTML`
-- `CSS`
-- `APIs REST`
-- `Manipulação de JSON`
-
-**Ferramentas**
-- `Git`
-- `GitHub`
+**Linguagens:** Python · JavaScript · SQL  
+**Web:** HTML · CSS · Jinja2  
+**Backend:** Flask · SQLite  
+**Conceitos:** APIs REST · CRUD · JSON · localStorage · Geolocalização  
+**Ferramentas:** Git · GitHub  
+**Redes & Segurança:** Cisco Packet Tracer · Fundamentos de Cibersegurança · Endereçamento IP · IoT  
 
 ---
 
-## 👩🏻‍💻 O que estou estudando atualmente: 
-- Integração com APIs
-- Estruturação de código e boas práticas
-- Lógica e fundamentos de programação
-- Desenvolvimento web
-- Manipulação e organização de dados
+## 📚 Estudando agora
+
+- CS50x — Harvard/edX (cursado em inglês, semanas 4–10 concluídas)
+- Análise e Desenvolvimento de Sistemas — UNISUL (último semestre)
+
+---
+
+## 📜 Certificações
+
+| Certificado | Emissor | Ano |
+|---|---|---|
+| Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
+| Network Addressing and Basic Troubleshooting | Cisco Networking Academy | 2024 |
+| Exploring IoT with Cisco Packet Tracer | Cisco Networking Academy | 2024 |
+| Computer Hardware Basics | Cisco Networking Academy | 2024 |
+| Exploring Networking with Cisco Packet Tracer | Cisco Networking Academy | 2024 |
+| Getting Started with Cisco Packet Tracer | Cisco Networking Academy | 2024 |
+| EF SET C1 Proficiency | EF Education First | 2026 |
+
+---
+
+## 🌐 Inglês: C1 Proficiency (EF SET) — leitura técnica avançada, CS50x cursado integralmente em inglês
 
 ---
 
